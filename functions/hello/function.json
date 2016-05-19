@@ -1,0 +1,7 @@
+{
+  "memory": 128,
+  "runtime": "python",
+  "name": "hello",
+  "timeout": 5,
+  "description": "hello slack command"
+}

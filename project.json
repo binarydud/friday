@@ -1,0 +1,9 @@
+
+{
+  "name": "Friday",
+  "description": "Friday, the custom slack bot",
+  "memory": 128,
+  "timeout": 5,
+  "defaultEnvironment": "dev",
+  "environment": {}
+}
